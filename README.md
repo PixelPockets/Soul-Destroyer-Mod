@@ -1,5 +1,4 @@
 # Soul-Destroyer-Mod
-Soul Destroyer mod for Terraria
 
 
 # Useful Links
